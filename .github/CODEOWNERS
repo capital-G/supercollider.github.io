@@ -1,0 +1,8 @@
+# default owner is content and technical
+* @supercollider/website-content @supercollider/website-technical
+
+# overwrite general rule by purely technical files
+assets/css @supercollider/website-technical
+assets/fonts @supercollider/website-technical
+assets/js @supercollider/website-technical
+_layouts/ @supercollider/website-technical
